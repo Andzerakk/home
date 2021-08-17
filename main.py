@@ -37,3 +37,11 @@ else:
     print("input only integer positive numbers")
 """
 
+'''num = input('enter positive integer number')
+if num.isdigit() and int(num) > 0:
+     num1 = int(num)
+     print(int(num) + int((num * 2)) + int((num * 3)))
+else:
+ print("enter only positive integer")'''
+
+
